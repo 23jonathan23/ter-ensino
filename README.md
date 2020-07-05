@@ -1,4 +1,4 @@
-# Documentação
+# Documentação ✔
 
 ## Endpoint da api, rota raiz:
 ```
