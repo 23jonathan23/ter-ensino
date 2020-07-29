@@ -1,3 +1,24 @@
+![](https://media-exp1.licdn.com/dms/image/C4D22AQFlsOjOm7QMNA/feedshare-shrink_800/0?e=1599091200&v=beta&t=l8UbrHT8JE94yWT_q__r8dbEN3iIMaZMywAraPFfk_M)
+
+# Introdução ⚛️ 💚
+
+Hoje venho lhes apresentar a terEnsino, uma rede de compartilhamento de aprendizados adquiridos, através de experiências vivenciadas.
+
+## Mas afinal, o que é a terEnsino?
+
+A terEnsino é uma plataforma que reúne estudantes, professores, profissionais, pensadores e qualquer outro tipo de pessoa que tenha interesse em compartilhar aprendizados adquiridos, através de experiências vivenciadas, e também aprender algo novo com as experiências de outras pessoas. Através da terEnsino você poderá compartilhar aprendizados que teve ao viajar para fora do pais, novos hábitos, culturas que conheceu, insights que teve lendo um bom livro, todo conteúdo que tenha como objetivo final agregar na vida de outras pessoas.
+
+## Objetivo
+
+Temos como nosso objetivo, aproximar pessoas que se interessam pelos mesmos assuntos, e que podem se ajudar ensinando e aprendendo através de troca de experiências, de forma organizada e intuitiva.
+
+## Benefícios
+
+Compartilhar experiência é também uma forma de ensinar e aprender. Aprender com a experiência dos outros é menos penoso do que aprender com a própria.
+
+============================================================================================================================================================================
+
+
 # Documentação ✔
 
 ## Endpoint da api, rota raiz:
