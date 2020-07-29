@@ -16,8 +16,6 @@ Temos como nosso objetivo, aproximar pessoas que se interessam pelos mesmos assu
 
 Compartilhar experiência é também uma forma de ensinar e aprender. Aprender com a experiência dos outros é menos penoso do que aprender com a própria.
 
-============================================================================================================================================================================
-
 
 # Documentação ✔
 
