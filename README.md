@@ -1,4 +1,4 @@
-![](https://media-exp1.licdn.com/dms/image/C4D22AQFlsOjOm7QMNA/feedshare-shrink_800/0?e=1599091200&v=beta&t=l8UbrHT8JE94yWT_q__r8dbEN3iIMaZMywAraPFfk_M)
+![](terEnsino.gif)
 
 # Introdução ⚛️ 💚
 
