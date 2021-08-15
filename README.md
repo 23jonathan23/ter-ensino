@@ -96,7 +96,7 @@ Outras respostas possíveis, são validações de cada campo do cadastro de usua
 }
 ```
 
-## Apartir daqui, são rotas que exigem que o usuário esteja autenticado. (PRIVETE API)
+## A partir daqui são rotas que exigem que o usuário esteja autenticado. (PRIVATE API)
 
 ## Autenticação
 OBS: Em toda requisição realizada deve ser mandando no HEADER da requisição o token de autenticação do usuário, seguindo exemplo abaixo:
@@ -111,7 +111,7 @@ Caso o token não seja passado na requisição ou já tenha expirado será retor
 }
 ```
 
-## Rotas de artigos (PRIVETE API)
+## Rotas de artigos (PRIVATE API)
 
 > Buscar todos os artigos
 
@@ -246,7 +246,7 @@ Resposta da requisição em caso de insucesso, exemplo com artigo que não exist
 }
 ```
 
-## Rotas do usuário (PRIVETE API)
+## Rotas do usuário (PRIVATE API)
 
 > Buscar informação do usuário autenticado
 
